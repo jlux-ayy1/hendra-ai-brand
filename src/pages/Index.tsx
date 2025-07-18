@@ -139,6 +139,10 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50">
+      {/* Logo/Brand Name */}
+      <header className="w-full py-6 flex items-center bg-white/80 shadow-sm pl-6 md:pl-12 sticky top-0 z-50">
+        <h1 className="text-3xl md:text-4xl font-extrabold text-blue-700 tracking-tight">Hendra AI Brand</h1>
+      </header>
       {/* Hero Section */}
       <section className="relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-blue-600/10 to-purple-600/10" />
