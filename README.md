@@ -1,3 +1,5 @@
+![Tampilan Website Hendra AI Brand](public/screenshoot.png)
+
 # HendraAI - Platform Branding Instan untuk UMKM
 
 HendraAI adalah platform digital yang membantu UMKM Indonesia melakukan rebranding secara instan, profesional, dan terjangkau. Dengan fitur otomatisasi pembuatan logo, palet warna, slogan, dan brand guidelines, siapa pun bisa membangun identitas bisnis yang kuat tanpa perlu keahlian desain.
