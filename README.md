@@ -68,7 +68,7 @@ HendraAI adalah platform digital yang membantu UMKM Indonesia melakukan rebrandi
 - **Email:** support@hendraai.id
 - **WhatsApp:** +62 812-3456-7890
 - **Alamat:** Jakarta, Indonesia
-- **Website:** [https://hendraai.id](https://hendraai.id)
+- **Website:** [https://hendra-ai-brand.vercel.app/](https://hendra-ai-brand.vercel.app/)
 
 Jika Anda membutuhkan bantuan atau ingin konsultasi branding, silakan hubungi kami melalui email atau WhatsApp di atas.
 
